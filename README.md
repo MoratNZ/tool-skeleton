@@ -1,4 +1,4 @@
-# Developing a Single Page App with FastAPI and Vue.js
+# A skeleton / boilerplate for API backed web tools
 
 ### Want to learn how to build this?
 
